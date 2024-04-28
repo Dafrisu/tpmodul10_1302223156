@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JIH1fMn0NasKMMR5JQ70eVvy9A00QqZT3feutbC2JKKPGdbxAMV73HeXKimogGbIaBFlo2i/zRx9VW1Sf8DiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daffa\\Documents\\File semester 4\\TP KPL\\tpmodul10_1302223156\\tpmodul10_1302223156\\tpmodul10_1302223156.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daffa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\daffa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\daffa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\daffa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\daffa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\daffa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
