@@ -30,3 +30,4 @@ C:\Users\daffa\Documents\File semester 4\TP KPL\tpmodul10_1302223156\tpmodul10_1
 C:\Users\daffa\Documents\File semester 4\TP KPL\tpmodul10_1302223156\tpmodul10_1302223156\obj\Debug\net8.0\tpmodul10_1302223156.pdb
 C:\Users\daffa\Documents\File semester 4\TP KPL\tpmodul10_1302223156\tpmodul10_1302223156\obj\Debug\net8.0\tpmodul10_1302223156.genruntimeconfig.cache
 C:\Users\daffa\Documents\File semester 4\TP KPL\tpmodul10_1302223156\tpmodul10_1302223156\obj\Debug\net8.0\ref\tpmodul10_1302223156.dll
+C:\Users\daffa\Documents\File semester 4\TP KPL\tpmodul10_1302223156\tpmodul10_1302223156\obj\Debug\net8.0\tpmodul10_1302223156.sourcelink.json
